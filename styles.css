@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#headline {
+    font-size: 80px;
+    text-align: center;
+    padding: 40px;
+}
+
+input {
+    text-align: center;
+}
+
+.search {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.search_bar {
+    width: 100%;
+    padding: 3px;
+}
+.search_button {
+    width: 100%;
+    padding: 3px;
+}
+
+/* List of things to do:
+    - fix spacing for space bar
+    - round edges for search
+    - make search longer
+    - make button look better
+    - add more color, perhaps make a dark and a light mode
+    
