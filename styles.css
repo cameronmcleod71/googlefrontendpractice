@@ -36,10 +36,10 @@ input {
     align-items: center;
 }
 #search-button {
-    background-color: #303134;
-    border: 1px solid #303134;
+    background-color: #e8eaed;
+    border: 1px solid #e8eaed;
     border-radius: 4px;
-    color: #e8eaed;
+    color: #303134;
     font-family: arial,sans-serif;
     font-size: 14px;
     margin: 11px 4px;
@@ -50,6 +50,13 @@ input {
     text-align: center;
     cursor: pointer;
     user-select: none;
+}
+.top-row {
+    display: flex;
+    justify-content: end;
+}
+a {
+    padding: 10px;
 }
 
 /* 
